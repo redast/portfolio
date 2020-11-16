@@ -1,0 +1,94 @@
+/*** BASIC LAYOUT: HEADER ***/
+
+.header {
+    background: rgb(219, 166, 184);
+}
+
+.title,
+.logo {
+    float: left;
+    padding: 3em 3em 3em 0;
+}
+
+.title * {
+    margin: 0;
+    color: #111;
+}
+
+.title p {
+    font-style: italic;
+}
+
+.logo {
+    height: 10.8em;
+}
+
+.logo * {
+    display: block;
+    height: 100%;
+}
+
+.logo img {
+    height: 8em;
+    min-width: 4.8em;
+}
+
+.logo+.title h1 {
+    margin: 0.8rem 0;
+}
+
+.logo+.title.tagline h1 {
+    margin: 0;
+}
+
+.nav {
+    padding: 3em 0;
+    text-align: right;
+}
+
+.nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-left: 1em;
+    padding: 0;
+    font-weight: bold;
+}
+
+.nav a,
+.nav-toggle {
+    color: rgb(0, 0, 0);
+}
+
+.nav .active a,
+.nav a:hover,
+.nav-toggle:hover {
+    color: #c0c0c0;
+}
+
+.nav a:hover,
+.nav-toggle:hover {
+    color: #3b440d;
+    text-decoration: underline;
+}
+
+.nav-toggle {
+    display: none;
+}
+
+/* IE8 + IE9 clearfix */
+
+.header>.container::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.flash-img {
+    height: 100%;
+    width: 100%;
+}
