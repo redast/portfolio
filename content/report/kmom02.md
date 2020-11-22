@@ -1,10 +1,21 @@
 ---
 Title: Kmom02
 Description: My report for kmom02.
+Template: kmom
 ---
 
 Kmom02
 ==========================
+<div class="sidebar">
+<a href="../report/kmom01"><h4>Kmom01</h4></a>
+<a href="#"><h4>Kmom02</h4></a>
+<a href="../report/kmom03"><h4>Kmom03</h4></a>
+<a href="../report/kmom04"><h4>Kmom04</h4></a>
+<a href="../report/kmom05"><h4>Kmom05</h4></a>
+<a href="../report/kmom06"><h4>Kmom06</h4></a>
+<a href="../report/kmom10"><h4>Kmom10</h4></a>
+</div>
+<div class="kmom" markdown="1">
 I början kändes SASS mycket förvirrande för mig, hur man behöver dela upp filer och importera de och hur scss-filer kompileras till css-filen som används i webbsidan. Det tog några dagar tills jag äntligen fick någorlunda koll på hur allt fungerar. 
 
 
@@ -20,4 +31,4 @@ Mitt tema har jag baserad på rosa nyanser, det börjar med ljust och blir mörk
 De ända uppdelningar i min kod har jag i mina scss filer och rapport sidor som nås via report i navbaren. Jag tänker dela upp mina scss filer ännu mer, så att det blir lättare att göra ändringar i de.
 
 
-Min TIL för detta kmom är att göra tills jag förstår och fråga så mycket jag kan. Närs det känns för frustrerande, är alltid bra idé att pausa och göra något annat, för att sedan återkomma till problemet med nya ögon.
+Min TIL för detta kmom är att göra tills jag förstår och fråga så mycket jag kan. Närs det känns för frustrerande, är alltid bra idé att pausa och göra något annat, för att sedan återkomma till problemet med nya ögon.</div>
