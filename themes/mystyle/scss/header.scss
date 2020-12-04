@@ -1,7 +1,7 @@
 /*** BASIC LAYOUT: HEADER ***/
 
 .header {
-    background: rgb(219, 166, 184);
+    background: $background-header;
 }
 
 .title,
@@ -12,7 +12,7 @@
 
 .title * {
     margin: 0;
-    color: #111;
+    color: $title;
 }
 
 .title p {
@@ -61,7 +61,7 @@
 
 .nav a,
 .nav-toggle {
-    color: rgb(0, 0, 0);
+    color: $nav-color;
 }
 
 .nav .active a,

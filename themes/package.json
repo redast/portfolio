@@ -6,10 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass mystyle/scss/style.scss mystyle/css/style.css --no-source-map",
-    "style-min": "sass mystyle/scss/style.scss mystyle/css/style.min.css --no-source-map --style compressed",
-    "watch": "sass mystyle/scss/style.scss mystyle/css/style.css --no-source-map --watch",
-    "watch-min": "sass mystyle/scss/style.scss mystyle/css/style.min.css --no-source-map --style compressed --watch"
+    "watch": "sass mystyle/scss/style.scss:mystyle/css/style.css mystyle/scss/style-dark.scss:mystyle/css/style-dark.css --no-source-map --watch",
+    "watch-min": "sass mystyle/scss/style.scss:mystyle/css/style.min.css mystyle/scss/style-dark.scss:mystyle/css/style-dark.min.css --no-source-map --watch --style compressed",
+    "style": "npm run style-light && npm run style-dark",
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-dark": "sass mystyle/scss/style-dark.scss mystyle/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass mystyle/scss/style-dark.scss mystyle/css/style-dark.min.css --no-source-map --style compressed",
+    "style-light": "sass mystyle/scss/style.scss mystyle/css/style.css --no-source-map",
+    "style-light-min": "sass mystyle/scss/style.scss mystyle/css/style.min.css --no-source-map --style compressed"
+
   },
   "keywords": [],
   "author": "",

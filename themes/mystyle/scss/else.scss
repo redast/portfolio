@@ -11,7 +11,7 @@ body {
     font-variant-ligatures: common-ligatures;
     text-rendering: optimizeLegibility;
     font-kerning: normal;
-    color: rgb(0, 0, 0);
+    // color: rgb(0, 0, 0);
 }
 
 p,
@@ -39,7 +39,7 @@ fieldset {
 }
 
 a {
-    color: #2eae9b;
+    color: #5e8680;
     text-decoration: none;
     transition: color 0.2s ease-in;
 }
@@ -56,7 +56,7 @@ h5,
 h6 {
     margin-bottom: 0.6em;
     font-weight: bold;
-    color: rgb(0, 0, 0);
+    color: $h-color;
 }
 
 h1 {

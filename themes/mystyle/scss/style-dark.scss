@@ -3,9 +3,8 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
-@import 'variables';
 
-
+@import 'variables-dark';
 
 @import '../../shared/scss/base';
 @import '../css/style.css';
@@ -24,6 +23,12 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 body {
     background-color: $base-color;
+    color: $font-color;
+}
+
+.flash-img,
+.logo img {
+    filter: grayscale(40%);
 }
 
 h1,
@@ -34,7 +39,6 @@ h5,
 h6 {
     font-family: 'Open Sans', sans-serif;
 }
-
 
 
 

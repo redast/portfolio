@@ -24,7 +24,7 @@ Jag har inte jobbat med dessa tekniker sedan tidigare och kommer i början bland
 Jag har skapat två nya moduler för att ha SASS-kod i separata filer: raport.scss som är enbart för report-sidan med grid och kmom.scss som syns när man går in genom report-sidan. Jag behövde göra en sånt uppdelning för att lättare kunna styla båda sidor, eftersom den ena har grid med 3 kolmuner och den andra två kolumner osh responsivitetet ser annorlunda också.
 
 
-Jag valde att inte göra om min sidas layout och nöjde mig bara mer report-sidan. Jag känner att just nu finns det nog inte så mycket innehåll i andra delarna av min webbsida, så kanske det är bättre att vänta med sådana förändringar.
+Jag valde att inte göra om min sidas layout och nöjde mig bara med report-sidan. Jag känner att just nu finns det nog inte så mycket innehåll i andra delarna av min webbsida, så kanske det är bättre att vänta med sådana förändringar.
 
 
 Min TIL för denna komom är att kolla på föregående kod som jag skriver och hur arbetsflödet såg ut innan, för att ofta bygger ju nästkommande uppgifter på det som vi har gjort precis innan.
