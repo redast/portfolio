@@ -7104,6 +7104,16 @@ button::-moz-focus-inner {
   padding: 0;
 }
 
+.bank {
+  height: 450px;
+  width: 700px;
+}
+
+.colors {
+  height: 300px;
+  width: 300px;
+}
+
 /* report scss*/
 .landingpage {
   display: grid;
