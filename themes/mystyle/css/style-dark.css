@@ -6755,7 +6755,7 @@ fieldset {
 }
 
 a {
-  color: #5e8680;
+  color: #61beb0;
   text-decoration: none;
   transition: color 0.2s ease-in;
 }
@@ -6988,6 +6988,7 @@ code {
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
+  color: #000;
 }
 
 pre {
@@ -7019,6 +7020,7 @@ blockquote {
 label,
 fieldset legend {
   font-weight: bold;
+  color: #000;
 }
 
 input:not([type=checkbox]):not([type=radio]),
@@ -7105,6 +7107,11 @@ button::-moz-focus-inner {
 }
 
 .bank {
+  height: 450px;
+  width: 700px;
+}
+
+.design {
   height: 450px;
   width: 700px;
 }

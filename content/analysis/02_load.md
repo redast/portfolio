@@ -35,7 +35,7 @@ Resultat
 
 Analys av swedbank.se:
 
-<img src="../assets/img/swe1.png" class="bank" alt="swedbank" >
+<img src="../assets/img/swe1.png" class="bank" alt="swedbank">
 
 PageSpeed Desktop analys ger betyg 40 av 100. Speed intex 7,7 s. PageSpeed Mobile ger betyg 37 och speed index 8,5 s.
 Som förbättringsmöjligheter anges: 

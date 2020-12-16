@@ -33,6 +33,6 @@ Min TIL för detta kmom är att laddningstid och hur många resurser man laddar 
 
 P.S. Om man tycker att det känns för mörkt under vintertiden kan man tillvärka sig en artificiell sol:
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/6bqBsHSwPgw" frameborder="0" allowfullscreen></iframe>
+    <iframe title="Artificial sun" src="https://www.youtube.com/embed/6bqBsHSwPgw" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
