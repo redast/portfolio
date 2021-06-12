@@ -7,13 +7,13 @@ Template: kmom
 Kmom01
 ==========================
 <div class="sidebar">
-<a href="#"><h4>Kmom01</h4></a>
-<a href="../report/kmom02"><h4>Kmom02</h4></a>
-<a href="../report/kmom03"><h4>Kmom03</h4></a>
-<a href="../report/kmom04"><h4>Kmom04</h4></a>
-<a href="../report/kmom05"><h4>Kmom05</h4></a>
-<a href="../report/kmom06"><h4>Kmom06</h4></a>
-<a href="../report/kmom10"><h4>Kmom10</h4></a>
+<a href="#"><h1 class="sidebar">Kmom01</h1></a>
+<a href="../report/kmom02"><h1 class="sidebar">Kmom02</h1></a>
+<a href="../report/kmom03"><h1 class="sidebar">Kmom03</h1></a>
+<a href="../report/kmom04"><h1 class="sidebar">Kmom04</h1></a>
+<a href="../report/kmom05"><h1 class="sidebar">Kmom05</h1></a>
+<a href="../report/kmom06"><h1 class="sidebar">Kmom06</h1></a>
+<a href="../report/kmom10"><h1 class="sidebar">Kmom10</h1></a>
 </div>
 <div class="kmom" markdown="1">Jag har aldrig jobbat med ramverk eller andra CMS:er tidigare, det var helt ny erfarenhet för mig och i början kändes det lite överväldigande. Här menar jag all kod som vi fick för att göra portfolio-sidan. Jag brukar generellt ha svårt för att jobba med något som jag fullständigt inte förstår. Jag hoppas att med kommande kmom blir lättare att förstå och orientera sig bland alla mappar, filer och kod som vi fick på köpet. Det som kanske känns svårt med kod som jag inte förstår helt är att jag har inte samma kontroll än när jag skriver egen kod från början.
 

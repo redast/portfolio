@@ -6821,6 +6821,10 @@ h6 {
   font-style: italic;
 }
 
+h1.sidebar {
+  font-size: 1.5em;
+}
+
 img {
   max-width: 100%;
 }

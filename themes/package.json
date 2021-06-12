@@ -14,7 +14,6 @@
     "style-dark-min": "sass mystyle/scss/style-dark.scss mystyle/css/style-dark.min.css --no-source-map --style compressed",
     "style-light": "sass mystyle/scss/style.scss mystyle/css/style.css --no-source-map",
     "style-light-min": "sass mystyle/scss/style.scss mystyle/css/style.min.css --no-source-map --style compressed"
-
   },
   "keywords": [],
   "author": "",

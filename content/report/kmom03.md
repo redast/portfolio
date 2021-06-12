@@ -7,13 +7,13 @@ Template: kmom
 Kmom03
 ==========================
 <div class="sidebar">
-<a href="../report/kmom01"><h4>Kmom01</h4></a>
-<a href="../report/kmom02"><h4>Kmom02</h4></a>
-<a href="#"><h4>Kmom03</h4></a>
-<a href="../report/kmom04"><h4>Kmom04</h4></a>
-<a href="../report/kmom05"><h4>Kmom05</h4></a>
-<a href="../report/kmom06"><h4>Kmom06</h4></a>
-<a href="../report/kmom10"><h4>Kmom10</h4></a>
+<a href="../report/kmom01"><h1 class="sidebar">Kmom01</h1></a>
+<a href="../report/kmom02"><h1 class="sidebar">Kmom02</h1></a>
+<a href="#"><h1 class="sidebar">Kmom03</h1></a>
+<a href="../report/kmom04"><h1 class="sidebar">Kmom04</h1></a>
+<a href="../report/kmom05"><h1 class="sidebar">Kmom05</h1></a>
+<a href="../report/kmom06"><h1 class="sidebar">Kmom06</h1></a>
+<a href="../report/kmom10"><h1 class="sidebar">Kmom10</h1></a>
 </div>
 <div class="kmom" markdown="1">I början var det lite svårt att förstå hur CSS-Grid/Flexbox fungerar. Men efter några försök och när jag läste ignom guiden flera gången blev det lättare att förstå hur man behöver göra. Att man kan se grid i Mozilla firefox är guldvärt! Då vet man om man har gjort rätt eller fel och kan göra ändringar snabbare.
 

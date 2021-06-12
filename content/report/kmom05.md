@@ -7,13 +7,13 @@ Template: kmom
 Kmom05
 ==========================
 <div class="sidebar">
-<a href="../report/kmom01"><h4>Kmom01</h4></a>
-<a href="../report/kmom02"><h4>Kmom02</h4></a>
-<a href="../report/kmom03"><h4>Kmom03</h4></a>
-<a href="../report/kmom04"><h4>Kmom04</h4></a>
-<a href="#"><h4>Kmom05</h4></a>
-<a href="../report/kmom06"><h4>Kmom06</h4></a>
-<a href="../report/kmom10"><h4>Kmom10</h4></a>
+<a href="../report/kmom01"><h1 class="sidebar">Kmom01</h1></a>
+<a href="../report/kmom02"><h1 class="sidebar">Kmom02</h1></a>
+<a href="../report/kmom03"><h1 class="sidebar">Kmom03</h1></a>
+<a href="../report/kmom04"><h1 class="sidebar">Kmom04</h1></a>
+<a href="#"><h1 class="sidebar">Kmom05</h1></a>
+<a href="../report/kmom06"><h1 class="sidebar">Kmom06</h1></a>
+<a href="../report/kmom10"><h1 class="sidebar">Kmom10</h1></a>
 </div>
 <div class="kmom" markdown="1">
 När jag gjorde min undersökning av webbplatsers laddningstid märkte jag att de webbplatser jag undersökte använde fortfarande gammalt typ av bildformat (PNG) och att de anpassade inte bildernas storlek, vilket saktade ner laddningstiden. Dessutom märkte jag att det fanns onödiga CSS och JavaScript som man kan ta bort för att korta ner laddningstiden. Men intressant var ändå att bilderna, eller, mer exakt, rätt typ och storlek av bilderna kan påverka så mycket laddningstiden. Det var riktigt nyttigt lärdom.
